@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pikaid/pikaid-specs/main/logo.png" alt="PikaID logo" width="220">
-</p>
-
 # 🐇 PikaID
 
 **Small · Sortable · Secure IDs**
