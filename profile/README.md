@@ -1,13 +1,13 @@
-# 🐇 PikaID
 
-**Small · Sortable · Secure IDs**
+**🐇 pikaid** {Small · Sortable · Secure IDs}
 
-🔑 26-character lowercase Base36 IDs · Sortable by timestamp · Cryptographically random 🚀
+    🔑 26-character lowercase Base36 IDs · Sortable by timestamp · Cryptographically random 🚀
+---
 
-### Specification
+[**Canonical specifications** {pikaid/pikaid-specs}](https://github.com/pikaid/pikaid-specs)
 
-[Canonical specifications](https://github.com/pikaid/pikaid-specs)
+---
 
-### Official implementations
+**Official implementations**
 
-- [PHP](https://github.com/pikaid/pikaid-php) - Official PHP implementation.
+- [**PHP** {pikaid/pikaid-php}](https://github.com/pikaid/pikaid-php)
